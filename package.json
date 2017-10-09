@@ -1,0 +1,28 @@
+{ "name": "zeropad-int",
+  "version": "1.0.0",
+  "description": "Add zeroes before numbers, optionally with custom base, custom signs and negative zero.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/zeropad-int-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/zeropad-int-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/zeropad-int-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "zp.js",
+  "scripts": { "test": "nodejs test.usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
