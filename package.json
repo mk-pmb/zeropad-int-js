@@ -1,6 +1,6 @@
 { "name": "zeropad-int",
-  "version": "1.0.0",
-  "description": "Add zeroes before numbers, optionally with custom base, custom signs and negative zero.",
+  "version": "1.0.1",
+  "description": "Add zeroes in front of integers, optionally with custom base, custom signs and negative zero.",
   "keywords": [],
 
   "author": "M.K. (https://github.com/mk-pmb)",

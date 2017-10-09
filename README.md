@@ -5,7 +5,7 @@ zeropad-int
 <!--/#echo -->
 
 <!--#echo json="package.json" key="description" -->
-Add zeroes before numbers, optionally with custom base, custom signs and
+Add zeroes in front of integers, optionally with custom base, custom signs and
 negative zero.
 <!--/#echo -->
 
